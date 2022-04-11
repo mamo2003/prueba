@@ -9,7 +9,7 @@ body {
     background-color: rgb(129, 129, 145);
 }
 
-# principal {  
+#principal {  
     background: aqua;
     float: right;
     font: 200;
@@ -17,7 +17,7 @@ body {
     text-shadow: rgba(rgb(228, 79, 79), alpha);
 }
 
-# seccion {
+#seccion {
     background-color: rgb(238, 120, 175);
     float: left;
     font-size: x-small;
