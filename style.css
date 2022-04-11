@@ -1,15 +1,15 @@
 * {
     margin: 80px;
-    background-color: blue;
+    background-color: rgb(116, 116, 158);
 }
 
 body {
     text-align: center;
     background: fixed;
-    background-color: blue;
+    background-color: rgb(129, 129, 145);
 }
 
-# principal {
+# principal {  
     background: aqua;
     float: right;
     font: 200;
@@ -18,7 +18,7 @@ body {
 }
 
 # seccion {
-    background-color: blue;
+    background-color: rgb(238, 120, 175);
     float: left;
     font-size: x-small;
     text-decoration: bisque;
