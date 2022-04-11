@@ -1,0 +1,30 @@
+* {
+    margin: 80px;
+    background-color: blue;
+}
+
+body {
+    text-align: center;
+    background: fixed;
+    background-color: blue;
+}
+
+# principal {
+    background: aqua;
+    float: right;
+    font: 200;
+    text-align: justify;
+    text-shadow: rgba(rgb(228, 79, 79), alpha);
+}
+
+# seccion {
+    background-color: blue;
+    float: left;
+    font-size: x-small;
+    text-decoration: bisque;
+}
+# p  {
+    background-color: blue;
+    float: right
+    font-size: 50px;
+}
