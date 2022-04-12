@@ -2,21 +2,11 @@
     margin: 80px;
     background-color: rgb(226, 240, 98);
 }
-
 #body {
     text-align: center;
     font-family: arial, sans-serif;
     font-size: 200%;
-    background-image: "./image/foto.png";
-    background-color: rgb(226, 240, 98);
 }
-
-#header {
-    font-family: Garamond, serif;
-    font-size: 300px;
-    text-align: justify;
-}
-
 #principal {
     background: aqua;
     float: right;
@@ -24,9 +14,7 @@
     text-align: justify;
     text-shadow: rgba(rgb(226, 240, 98), alpha);
 }
-
 #seccion {
-    background-color: rgb(226, 240, 98);
     float: left;
     font-size: arial, sans-serif;
     text-decoration: bisque;
