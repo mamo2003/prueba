@@ -1,0 +1,1 @@
+<button type="button" onclick="javascript:void(window.open(./image/imagen1.png'));" title="mira mi foto">mi foto</button>
