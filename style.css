@@ -1,21 +1,28 @@
 * {
     margin: 80px;
-    background-color: rgb(116, 116, 158);
+    background-color: rgb(226, 240, 98);
 }
 #body {
     text-align: center;
+    font-family: fantasy;
+    font-size: 100px;
     background: fixed;
-    background-color: rgb(129, 129, 145);
+    background-color: rgb(226, 240, 98);
+}
+#h1 {
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 120%;
 }
 #principal {  
     background: aqua;
     float: right;
     font: 200;
     text-align: justify;
-    text-shadow: rgba(rgb(228, 79, 79), alpha);
+    text-shadow: rgba(rgb(226,240, 98), alpha);
 }
 #seccion {
-    background-color: rgb(238, 120, 175);
+    background-color: rgb(226, 240, 98);
     float: left;
     font-size: x-small;
     text-decoration: bisque;
