@@ -2,28 +2,32 @@
     margin: 80px;
     background-color: rgb(226, 240, 98);
 }
+
 #body {
     text-align: center;
-    font-family: fantasy;
-    font-size: 100px;
-    background: fixed;
+    font-family: arial, sans-serif;
+    font-size: 200%;
+    background-image: "./image/foto.png";
     background-color: rgb(226, 240, 98);
 }
-#h1 {
+
+#header {
     text-align: justify;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 120%;
+    font-family: arial, sans-serif;
+    font-size: 300px;
 }
-#principal {  
+
+#principal {
     background: aqua;
     float: right;
     font: 200;
     text-align: justify;
-    text-shadow: rgba(rgb(226,240, 98), alpha);
+    text-shadow: rgba(rgb(226, 240, 98), alpha);
 }
+
 #seccion {
     background-color: rgb(226, 240, 98);
     float: left;
-    font-size: x-small;
+    font-size: arial, sans-serif;
     text-decoration: bisque;
 }
