@@ -1,21 +1,40 @@
 * {
-    margin: 80px;
+    margin: 1px;
     background-color: rgb(226, 240, 98);
 }
 #body {
-    text-align: center;
+    position: absolute, fixed;
+    text-align:left;
     font-family: arial, sans-serif;
-    font-size: 200%;
+    font-size:0%;
 }
 #principal {
     background: aqua;
-    float: right;
-    font: 200;
-    text-align: justify;
+    font:100;
+    text-align:start;
     text-shadow: rgba(rgb(226, 240, 98), alpha);
 }
 #seccion {
-    float: left;
-    font-size: arial, sans-serif;
+    font: 200;
     text-decoration: bisque;
+}
+#button {
+    position:relative;
+    float:inline-start;
+    text-align: justify;
+}
+img {
+    position: absolute, fixed;
+    width: 50%;
+    font-weight: normal;
+}
+h1 {
+    font: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 3px , 6px;
+}
+href {
+    position: absolute, fixed;
+    width: 50%;
+    font-weight: normal;
 }
