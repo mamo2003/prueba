@@ -4,9 +4,10 @@
 }
 header{
 	background:content-box, rgb(221, 70, 123);
-    height:100px;
+    height:100%;
 	width: 100%;
 	background-position: 0px;
+    text-align: center;
 }
 div{
 font-size: 45px;
@@ -50,6 +51,7 @@ footer{
     background: coral;
 }
 a {
-    font-size: 60px;
+    font-size: 30px;
     background: coral;
+    
 }
