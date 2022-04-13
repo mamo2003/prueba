@@ -34,8 +34,3 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: 3px , 6px;
 }
-href {
-    position: absolute, fixed;
-    width: 50%;
-    font-weight: normal;
-}
