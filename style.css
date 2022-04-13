@@ -8,20 +8,24 @@ header{
 	width: 100%;
 	background-position: 0px;
 }
-#principal {
-    background: aqua;
-    font:100;
-    text-align:start;
-    text-shadow: rgba(rgb(226, 240, 98), alpha);
+div{
+font-size: 45px;
 }
-#seccion {
-    font: 200;
-    text-decoration: bisque;
+section{
+    font-size: 30px;
 }
-#button {
+button {
     position:relative;
     float:inline-start;
+    font-size: 18px;
     text-align: justify;
+    background-color: blue;
+    border-radius: 15px;
+    background-clip: padding-box;
+}
+button:hover {
+    background-color: #a9f7f2;
+    transition: 0.3s;
 }
 img {
     position: absolute, fixed;
@@ -31,6 +35,10 @@ img {
 h1 {
     background:content-box, rgb(221, 70, 123);
     font: 900;
+    font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: 3px , 6px;
+}
+footer{
+font-size: 20px;
 }
