@@ -3,16 +3,10 @@
     background-color: rgb(226, 240, 98);
 }
 header{
-	background:url(titulo.jpg) no-repeat center center fixed;
-	background-size:cover;
-	height:100px;
+	background:content-box, rgb(221, 70, 123);
+    height:100px;
 	width: 100%;
-}
-#body {
-    position: absolute, fixed;
-    text-align:left;
-    font-family: arial, sans-serif;
-    font-size:0%;
+	background-position: 0px;
 }
 #principal {
     background: aqua;
@@ -35,6 +29,7 @@ img {
     font-weight: normal;
 }
 h1 {
+    background:content-box, rgb(221, 70, 123);
     font: 900;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: 3px , 6px;
