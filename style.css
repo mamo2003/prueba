@@ -40,5 +40,10 @@ h1 {
     text-shadow: 3px , 6px;
 }
 footer{
-font-size: 20px;
+    font-size: 60px;
+    background: coral;
+}
+a {
+    font-size: 60px;
+    background: coral;
 }
